@@ -1,4 +1,4 @@
-# How To Write Unmaintainable Code
+# ~~How To Write Unmaintainable Code~~IPython Project Guidelines
 
 ## Ensure a job for life ;-)
 
