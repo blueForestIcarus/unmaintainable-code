@@ -1,12 +1,4 @@
-# ~~How To Write Unmaintainable Code~~
-# IPython Project Guidelines
-
-## Ensure a job for life ;-)
-
-**Roedy Green**
- [**Canadian Mind Products**](http://mindprod.com/jgloss/unmain.html)
-
-* * *
+# ~~How To Write Unmaintainable Code~~ IPython Project Guidelines
 
 ## Introduction
 
